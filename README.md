@@ -23,8 +23,9 @@
 
 ## Currently
 
-🌱 English & preparing for iOS interviews — 
-🌱 Algorithms, system design
+- 🌱 English 🌱
+- 🌱 Algorithms 🌱
+- 🌱 System design 🌱
 
 ---
 
