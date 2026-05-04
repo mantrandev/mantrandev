@@ -28,16 +28,11 @@
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mantrandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantrandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
 ---
 
 ## Connect
 
 [![X](https://img.shields.io/badge/-@man__1801-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/man_1801)
-[![LinkedIn](https://img.shields.io/badge/-mantrandev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantrandev/)
+[![LinkedIn](https://img.shields.io/badge/-mantrandev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantran181/)
 [![Email](https://img.shields.io/badge/-mantrandev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mantrandev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-mantrandev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mantrandev)
