@@ -17,7 +17,7 @@
 
 - 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
 - 💌 **E-Invite** — SaaS platform for digital invitations, built for both web and mobile. *(In progress)*
-- 📈 **stock-cli** — CLI tool for stock tracking. *(Coming soon)*
+- 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking. *(Coming soon)*
 
 ---
 
