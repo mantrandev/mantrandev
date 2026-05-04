@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-@man__1801-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/man_1801)
