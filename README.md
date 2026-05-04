@@ -23,7 +23,8 @@
 
 ## Currently
 
-🌱 Learning English & preparing for iOS interviews — algorithms, system design, Swift internals.
+🌱 English & preparing for iOS interviews — 
+🌱 Algorithms, system design
 
 ---
 
