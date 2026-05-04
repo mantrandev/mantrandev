@@ -1,44 +1,43 @@
-# 💫 About Me
+# Hi, I'm Man 👋
 
-🍏 iOS Engineer — building native apps with Swift and Clean Architecture.<br>
-🔨 Currently working on: **JiraBar** · **E-Invite** — a SaaS platform for digital invitations, built for both web and mobile.<br>
-🌱 Learning: English & sharpening iOS + Algorithms for interviews.<br>
-🎯 Goal: land my next iOS role with strong fundamentals.
+📍 **Vietnam** | 📱 **iOS Engineer** | 🛠️ **Builder of tools that make dev life faster**
 
----
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mantrandev)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/man_1801)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mantrandev@gmail.com)
+> 真正的失败，是放弃所有的努力
 
 ---
 
-## 💻 Tech Stack
+## Projects
 
-### Mobile
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-### Patterns & Frameworks
-![Combine](https://img.shields.io/badge/Combine-FF375F?style=for-the-badge&logo=apple&logoColor=white)
-![async/await](https://img.shields.io/badge/async%2Fawait-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-### Other
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
+- 💌 **E-Invite** — SaaS platform for digital invitations, built for both web and mobile. *(In progress)*
 
 ---
 
-## 📊 GitHub Stats
+## Currently
 
-![](https://github-readme-stats.shion.dev/api?username=mantrandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mantrandev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mantrandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌱 Learning English & preparing for iOS interviews — algorithms, system design, Swift internals.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=mantrandev&color=0e75b6&style=flat)](https://github.com/mantrandev)
+## GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mantrandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantrandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@man__1801-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/man_1801)
+[![LinkedIn](https://img.shields.io/badge/-mantrandev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mantrandev/)
+[![Email](https://img.shields.io/badge/-mantrandev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mantrandev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-mantrandev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mantrandev)
