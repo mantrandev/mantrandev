@@ -26,7 +26,7 @@
 ## Currently
 
 - 🌱 English 🌱
-- 🌱 Algorithms 🌱
+- 🌱 [Algorithms](https://github.com/mantrandev/algo_template) 🌱
 - 🌱 System design 🌱
 
 ---
