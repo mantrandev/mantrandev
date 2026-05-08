@@ -27,8 +27,12 @@
 - 🌱 English 🌱
 - 🌱 [Algorithms](https://github.com/mantrandev/algo_template) 🌱
 - 🌱 System design 🌱
-
+- 🌱 CS Fundamental 🌱
 ---
+
+## Working Git
+<img width="967" height="234" alt="image" src="https://github.com/user-attachments/assets/eb8bbfe0-9966-40f8-bab5-c792d5d617fc" />
+
 
 ## Connect
 
