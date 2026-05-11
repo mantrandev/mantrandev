@@ -16,12 +16,12 @@
 ## Projects
 
 - 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
+- ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — macOS key mapping tool.
 - 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
 - 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats to reset the 5-hour inactivity limit.
 - 🤖 **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
 - 📊 **[claude-dashboard](https://github.com/mantrandev/claude-dashboard)** — Local web dashboard for monitoring Claude account quotas and usage across multiple accounts.
 - 🔗 **[confluence-cli](https://github.com/mantrandev/confluence-cli)** — Zsh helpers for Confluence wrapping acli. JSON-first output built for AI agents and terminal-native devs.
-- ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — macOS key mapping tool.
 
 ---
 
