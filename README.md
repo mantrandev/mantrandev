@@ -19,6 +19,7 @@
 - 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
 - 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats to reset the 5-hour inactivity limit.
 - 🤖 **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
+- 📊 **claude-dashboard** — Local web dashboard for monitoring Claude account quotas and usage across multiple accounts.
 
 ---
 
