@@ -27,10 +27,6 @@
 
 ## Currently
 
-- 🌱 English 🌱
-- 🌱 [Algorithms](https://github.com/mantrandev/algo_template) 🌱
-- 🌱 System design 🌱
-- 🌱 CS Fundamental 🌱
 ---
 
 ## Working Git
