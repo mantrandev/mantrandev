@@ -26,6 +26,9 @@
 ---
 
 ## Currently
+🛍️ X-Factor 🛍️
+🌱 X-Growth 🌱 
+🪷 X-Reflection 🪷 
 
 ---
 
