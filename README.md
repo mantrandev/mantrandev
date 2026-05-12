@@ -22,7 +22,7 @@
 - 🤖 **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
 - 📊 **[claude-dashboard](https://github.com/mantrandev/claude-dashboard)** — Local web dashboard for monitoring Claude account quotas and usage across multiple accounts.
 - 🔗 **[confluence-cli](https://github.com/mantrandev/confluence-cli)** — Zsh helpers for Confluence wrapping acli. JSON-first output built for AI agents and terminal-native devs.
-- ⚡ **calculate-token-s** — Real-time tokens/s tracker for Claude streaming. Writes live TPS to `/tmp/llm_tps.txt` for statusline integration.
+- ⚡ **[calculate-token-s](https://github.com/mantrandev/calculate-token-s)** — Real-time tokens/s tracker for Claude streaming. Writes live TPS to `/tmp/llm_tps.txt` for statusline integration.
 
 ---
 
