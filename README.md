@@ -18,12 +18,15 @@
 - 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
 - ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — Lightweight Vietnamese IME for macOS with a native typing experience.
 - 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
-- 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats to reset the 5-hour inactivity limit.
 - 🤖 **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
 - 📊 **[claude-dashboard](https://github.com/mantrandev/claude-dashboard)** — Local web dashboard for monitoring Claude account quotas and usage across multiple accounts.
 - 🔗 **[confluence-cli](https://github.com/mantrandev/confluence-cli)** — Zsh helpers for Confluence wrapping acli. JSON-first output built for AI agents and terminal-native devs.
 - ⚡ **[calculate-token-s](https://github.com/mantrandev/calculate-token-s)** — Real-time tokens/s tracker for Claude streaming. Writes live TPS to `/tmp/llm_tps.txt` for statusline integration.
 - 🧹 **[mclmm](https://github.com/mantrandev/mclmm)** — Lightweight macOS cleaner CLI. Smart scan, cache/Xcode cleanup, full app uninstall. Single zsh script, zero dependencies.
+
+## Deprecated
+
+- 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats. *(superseded by Claude's native scheduled tasks)*
 
 ---
 
