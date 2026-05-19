@@ -24,16 +24,14 @@
 - ⚡ **[calculate-token-s](https://github.com/mantrandev/calculate-token-s)** — Real-time tokens/s tracker for Claude streaming. Writes live TPS to `/tmp/llm_tps.txt` for statusline integration.
 - 🧹 **[mclmm](https://github.com/mantrandev/mclmm)** — Lightweight macOS cleaner CLI. Smart scan, cache/Xcode cleanup, full app uninstall. Single zsh script, zero dependencies.
 
-## Deprecated
-
-- 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats. *(superseded by Claude's native scheduled tasks)*
-
----
-
 ## Currently
 - 🛍️ X-Factor 🛍️
 - 🌱 X-Growth 🌱 
 - 🪷 X-Reflection 🪷 
+
+## Deprecated
+
+- 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats. *(superseded by Claude's native scheduled tasks)*
 
 ---
 
