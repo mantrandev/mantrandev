@@ -36,7 +36,8 @@
 ---
 
 ## Working Git
-<img width="967" height="234" alt="image" src="https://github.com/user-attachments/assets/eb8bbfe0-9966-40f8-bab5-c792d5d617fc" />
+<img width="938" height="233" alt="image" src="https://github.com/user-attachments/assets/c966581a-6fe8-4ed4-bac0-b9cf519a286c" />
+
 
 
 ## Connect
