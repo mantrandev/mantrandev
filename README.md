@@ -1,6 +1,6 @@
 # Hi, I'm Man 👋
 
-📍 **Vietnam** | 📱 **iOS Engineer** | 🛠️ **Builder of tools that make dev life faster**
+📱 **iOS Engineer**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
