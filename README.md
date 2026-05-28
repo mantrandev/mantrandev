@@ -34,7 +34,7 @@
 ---
 
 ## Working Git
-<img width="938" height="233" alt="image" src="https://github.com/user-attachments/assets/c966581a-6fe8-4ed4-bac0-b9cf519a286c" />
+<img width="886" height="177" alt="image" src="https://github.com/user-attachments/assets/f6c221b8-d196-4c78-803c-575274cc92ee" />
 
 
 
