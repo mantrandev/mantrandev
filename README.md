@@ -25,11 +25,6 @@
 - 🛍️ -X- 🛍️
 - 🌱 -Y- 🌱 
 - 🪷 -Z- 🪷 
-
-## Deprecated
-
-- 💓 **[heartbeat](https://github.com/mantrandev/heartbeat)** — Keeps Claude sessions alive by sending scheduled heartbeats. *(superseded by Claude's native scheduled tasks)*
-
 ---
 
 ## Working Git
