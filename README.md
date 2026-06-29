@@ -17,7 +17,6 @@
 - ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — Lightweight Vietnamese IME for macOS with a native typing experience.
 - 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
 - ⚙️ **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
-- 📊 **[claude-dashboard](https://github.com/mantrandev/claude-dashboard)** — Local web dashboard for monitoring Claude account quotas and usage across multiple accounts.
 - ⚡ **[calculate-token-s](https://github.com/mantrandev/calculate-token-s)** — Real-time tokens/s tracker for Claude streaming. Writes live TPS to `/tmp/llm_tps.txt` for statusline integration.
 - 🧹 **[mclmm](https://github.com/mantrandev/mclmm)** — Lightweight macOS cleaner CLI. Smart scan, cache/Xcode cleanup, full app uninstall. Single zsh script, zero dependencies.
 
