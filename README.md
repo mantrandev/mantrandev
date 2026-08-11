@@ -26,10 +26,6 @@
 - 🪷 -Z- 🪷 
 ---
 
-## Working Git
-<img width="887" height="147" alt="image" src="https://github.com/user-attachments/assets/59fc38c0-e0d8-471b-b406-bd8aaa5da77e" />
-
-
 
 ## Connect
 
