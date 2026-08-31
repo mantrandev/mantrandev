@@ -20,7 +20,6 @@
 - 🧹 **[mclmm](https://github.com/mantrandev/mclmm)** — Lightweight macOS cleaner CLI. Smart scan, cache/Xcode cleanup, full app uninstall. Single zsh script, zero dependencies.
 
 ## Currently
-- 🛍️ -X- 🛍️
 - 🌱 -Y- 🌱 
 - 🪷 -Z- 🪷 
 ---
