@@ -23,6 +23,8 @@
 - 🪷 -Z- 🪷 
 ---
 
+## Working Git
+<img width="927" height="292" alt="GitLab activity" src="assets/gitlab-activity.png" />
 
 ## Connect
 
