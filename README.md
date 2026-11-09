@@ -12,6 +12,7 @@
 
 ## Projects
 
+- 🌳 **[Mork](https://github.com/mantrandev/Mork)** — Native Git client for macOS that teaches you Git as you use it. Every action shows the real git command. *(macOS 14+, Swift 6)*
 - 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
 - ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — Lightweight Vietnamese IME for macOS with a native typing experience.
 - 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
