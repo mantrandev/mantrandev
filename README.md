@@ -1,6 +1,6 @@
 # Hi, I'm Man 👋
 
-📱 ** iOS Engineer **
+📱 ** FullStack Engineer **
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
