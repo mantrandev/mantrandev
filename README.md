@@ -25,7 +25,7 @@
 ---
 
 ## Working Git
-<img width="927" height="292" alt="GitLab activity" src="assets/gitlab-activity.png" />
+<img width="951" height="276" alt="GitLab activity" src="assets/gitlab-activity-2026-11.png" />
 
 ## Connect
 
