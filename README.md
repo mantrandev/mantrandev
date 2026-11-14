@@ -1,6 +1,16 @@
 # Hi, I'm Man 👋
 
-📱 ** FullStack Engineer **
+**Fullstack Engineer · AI Agent Workflows**
+
+Building products across frontend, backend, and developer tools. Using AI agents to turn ideas into working software—from system design and implementation to review and validation.
+
+## Skills
+
+- **Fullstack development** — frontend, backend APIs, and system integration.
+- **AI agent workflows** — instructions, skills, context management, and agent orchestration.
+- **Engineering** — requirements, system design, debugging, code review, and validation.
+- **Developer tooling** — CLIs, shell automation, and development environments.
+- **iOS & macOS** — native development with Swift and Objective-C.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
