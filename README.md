@@ -5,6 +5,8 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 > 真正的失败，是放弃所有的努力
 
