@@ -1,16 +1,6 @@
 # Hi, I'm Man 👋
 
-**Fullstack Engineer · AI Agent Workflows**
-
-Building products across frontend, backend, and developer tools. Using AI agents to turn ideas into working software—from system design and implementation to review and validation.
-
-## Skills
-
-- **Fullstack development** — frontend, backend APIs, and system integration.
-- **AI agent workflows** — instructions, skills, context management, and agent orchestration.
-- **Engineering** — requirements, system design, debugging, code review, and validation.
-- **Developer tooling** — CLIs, shell automation, and development environments.
-- **iOS & macOS** — native development with Swift and Objective-C.
+**Fullstack Engineer**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
@@ -23,9 +13,7 @@ Building products across frontend, backend, and developer tools. Using AI agents
 ## Projects
 
 - 🌳 **[Mork](https://github.com/mantrandev/Mork)** — Native Git client for macOS that teaches you Git as you use it. Every action shows the real git command. *(macOS 14+, Swift 6)*
-- 🎟️ **[JiraBar](https://github.com/mantrandev/JiraBar)** — Zero context switch. Full Jira control in menu bar and CLI. *(macOS 14+, Swift 6)*
 - ⌨️ **[Mkey](https://github.com/mantrandev/Mkey)** — Lightweight Vietnamese IME for macOS with a native typing experience.
-- 📈 **[stock-cli](https://github.com/mantrandev/stock-cli)** — CLI tool for stock tracking.
 - ⚙️ **[mydotbot](https://github.com/mantrandev/mydotbot)** — Dotbot-managed dotfiles for shell, AI agents (Claude, Codex, Pi), and shared skills.
 - 🧹 **[mclmm](https://github.com/mantrandev/mclmm)** — Lightweight macOS cleaner CLI. Smart scan, cache/Xcode cleanup, full app uninstall. Single zsh script, zero dependencies.
 
